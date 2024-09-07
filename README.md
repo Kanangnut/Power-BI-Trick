@@ -9,7 +9,7 @@ Mobile Version<br>
 <br><br>
 Desktop Version<br>
 ![alt text](https://github.com/Kanangnut/PowerBI-Visualization/blob/main/KPI%20Card/asset/KPI%20Card%20GIF%2001.gif?raw=true)
-<br><br>
+<br>
 ### Dynamic Pareto Preview
 You can find this vis [here](https://github.com/Kanangnut/PowerBI-Visualization/tree/main/Dynamic%20Pareto)
 
