@@ -15,7 +15,7 @@ You can find this viz [here](https://github.com/Kanangnut/PowerBI-Visualization/
 
 ![alt text](https://github.com/Kanangnut/PowerBI-Visualization/blob/main/Dynamic%20Pareto/asset/ParetoGIF.gif?raw=true)
 
-### Role Specific Measures Preview
+### Role Specific Measures, RLS, Field Parameters, SVGs Preview
 
 You can find this viz [here](https://github.com/Kanangnut/PowerBI-Visualization/tree/main/Role%20Specific%20Measures)
 
