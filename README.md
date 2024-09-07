@@ -16,9 +16,7 @@ You can find this viz [here](https://github.com/Kanangnut/PowerBI-Visualization/
 ![alt text](https://github.com/Kanangnut/PowerBI-Visualization/blob/main/Dynamic%20Pareto/asset/ParetoGIF.gif?raw=true)
 
 ### Role Specific Measures Preview
-<br>
-You can find this viz
 
-[here](https://github.com/Kanangnut/PowerBI-Visualization/tree/main/Role%20Specific%20Measures)
-<br>
+You can find this viz [here](https://github.com/Kanangnut/PowerBI-Visualization/tree/main/Role%20Specific%20Measures)
+
 ![alt text](https://github.com/Kanangnut/PowerBI-Visualization/blob/main/Role%20Specific%20Measures/asset/Role%20Specific%20Measures%20GIF.gif?raw=true)
