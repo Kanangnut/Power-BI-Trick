@@ -1,5 +1,5 @@
 ## PowerBI Visualization
-I will update advance visualization here 😊
+I will update my experience visualization here 😊
 
 ### KPI Card Preview
 You can find this viz [here](https://github.com/Kanangnut/PowerBI-Visualization/tree/main/KPI%20Card)
