@@ -5,7 +5,7 @@ I will update advance visualization here 😊
 You can find this vis [here](https://github.com/Kanangnut/PowerBI-Visualization/tree/main/KPI%20Card)
 
 Mobile Version<br>
-![alt text](https://github.com/Kanangnut/PowerBI-Visualization/blob/main/KPI%20Card/asset/KPI%20Card%20Mobile%20GIF%2001.gif?raw=true)
+![alt text](https://github.com/Kanangnut/PowerBI-Visualization/blob/main/KPI%20Card/asset/KPI%20Card%20Mobile%20GIF%2002.gif?raw=true)
 <br><br>
 Desktop Version<br>
 ![alt text](https://github.com/Kanangnut/PowerBI-Visualization/blob/main/KPI%20Card/asset/KPI%20Card%20GIF%2001.gif?raw=true)
